@@ -1,0 +1,432 @@
+{
+    "lastActivities": [
+        {
+            "id": 1,
+            "icon": "../../assets/icons/Blankets.svg",
+            "iconBg": "#EAEBFF",
+            "title": "Distribution of Blankets",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros e"
+        },
+        {
+            "id": 2,
+            "icon": "../../assets/icons/gift.svg",
+            "iconBg": "#FFEBEE",
+            "title": "Distribution of Eid Gifts",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros e"
+        },
+        {
+            "id": 3,
+            "icon": "../../assets/icons/blood.svg",
+            "iconBg": "#FFEBEE",
+            "title": "Blood Donation",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros e"
+        },
+        {
+            "id": 4,
+            "icon": "../../assets/icons/picnic.svg",
+            "iconBg": "#E8F5E9",
+            "title": "Picnic",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros e"
+        },
+        {
+            "id": 5,
+            "icon": "../../assets/icons/celebration.svg",
+            "iconBg": "#E8F5E9",
+            "title": "Freelancer Celebration",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros e"
+        },
+        {
+            "id": 5,
+            "icon": "../../assets/icons/event.svg",
+            "iconBg": "#E8F5E9",
+            "title": "Event",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros e"
+        }
+    ],
+    "sponsorList": [
+        {
+            "id": 1,
+            "sponsorsName": "Fluresta",
+            "logo": "../../assets/sponsors/fluresta.png",
+            "website_url": "https://fluresta.com"
+        },
+        {
+            "id": 3,
+            "sponsorsName": "Hostflue",
+            "logo": "../../assets/sponsors/hostflu.png",
+            "website_url": "https://fluresta.com"
+        },
+        {
+            "id": 2,
+            "sponsorsName": "Growup It",
+            "logo": "../../assets/sponsors/growupit.png",
+            "website_url": "https://www.growupit.academy"
+        },
+        {
+            "id": 4,
+            "sponsorsName": "Fluresta",
+            "logo": "../../assets/sponsors/fluresta.png",
+            "website_url": "https://fluresta.com"
+        },
+        {
+            "id": 5,
+            "sponsorsName": "Fluresta",
+            "logo": "../../assets/sponsors/fluresta.png",
+            "website_url": "https://fluresta.com"
+        },
+        {
+            "id": 6,
+            "sponsorsName": "Fluresta",
+            "logo": "../../assets/sponsors/fluresta.png",
+            "website_url": "https://fluresta.com"
+        },
+        {
+            "id": 7,
+            "sponsorsName": "Fluresta",
+            "logo": "../../assets/sponsors/fluresta.png",
+            "website_url": "https://fluresta.com"
+        },
+        {
+            "id": 8,
+            "sponsorsName": "Fluresta",
+            "logo": "../../assets/sponsors/fluresta.png",
+            "website_url": "https://fluresta.com"
+        },
+        {
+            "id": 9,
+            "sponsorsName": "Fluresta",
+            "logo": "../../assets/sponsors/fluresta.png",
+            "website_url": "https://fluresta.com"
+        },
+        {
+            "id": 10,
+            "sponsorsName": "Fluresta",
+            "logo": "../../assets/sponsors/fluresta.png",
+            "website_url": "https://fluresta.com"
+        },
+        {
+            "id": 11,
+            "sponsorsName": "Fluresta",
+            "logo": "../../assets/sponsors/fluresta.png",
+            "website_url": "https://fluresta.com"
+        },
+        {
+            "id": 12,
+            "sponsorsName": "Fluresta",
+            "logo": "../../assets/sponsors/fluresta.png",
+            "website_url": "https://fluresta.com"
+        },
+        {
+            "id": 13,
+            "sponsorsName": "Fluresta",
+            "logo": "../../assets/sponsors/fluresta.png",
+            "website_url": "https://fluresta.com"
+        },
+        {
+            "id": 14,
+            "sponsorsName": "Fluresta",
+            "logo": "../../assets/sponsors/fluresta.png",
+            "website_url": "https://fluresta.com"
+        },
+        {
+            "id": 15,
+            "sponsorsName": "Fluresta",
+            "logo": "../../assets/sponsors/fluresta.png",
+            "website_url": "https://fluresta.com"
+        },
+        {
+            "id": 16,
+            "sponsorsName": "Fluresta",
+            "logo": "../../assets/sponsors/fluresta.png",
+            "website_url": "https://fluresta.com"
+        },
+        {
+            "id": 17,
+            "sponsorsName": "Fluresta",
+            "logo": "../../assets/sponsors/fluresta.png",
+            "website_url": "https://fluresta.com"
+        },
+        {
+            "id": 18,
+            "sponsorsName": "Fluresta",
+            "logo": "../../assets/sponsors/fluresta.png",
+            "website_url": "https://fluresta.com"
+        }
+    ],
+    "speakers": [
+        {
+            "id": 1,
+            "speakesName": "Atam Smith",
+            "speake_img": "../../assets/speakers/speaker (1).png",
+            "designation": "Ceo Of Desh company"
+        },
+        {
+            "id": 2,
+            "speakesName": "Marvin McKinney",
+            "speake_img": "../../assets/speakers/speaker (2).png",
+            "designation": "Binford Ltd."
+        },
+        {
+            "id": 3,
+            "speakesName": "Kristin Watson",
+            "speake_img": "../../assets/speakers/speaker (3).png",
+            "designation": "Big Kahuna Burger Ltd."
+        },
+        {
+            "id": 4,
+            "speakesName": "Wade Warren",
+            "speake_img": "../../assets/speakers/speaker (4).png",
+            "designation": "Acme Co."
+        },
+        {
+            "id": 5,
+            "speakesName": "Kristin Watson",
+            "speake_img": "../../assets/speakers/speaker (5).png",
+            "designation": "Big Kahuna Burger Ltd."
+        },
+        {
+            "id": 6,
+            "speakesName": "Wade Warren",
+            "speake_img": "../../assets/speakers/speaker (6).png",
+            "designation": "Acme Co."
+        },
+        {
+            "id": 7,
+            "speakesName": "Cody Fisher",
+            "speake_img": "../../assets/speakers/speaker (7).png",
+            "designation": "Biffco Enterprises Ltd."
+        },
+        {
+            "id": 8,
+            "speakesName": "Floyd Miles",
+            "speake_img": "../../assets/speakers/speaker (8).png",
+            "designation": "Abstergo Ltd."
+        }
+    ],
+    "blogs": [
+        {
+            "id": 1,
+            "title": "Blog title heading will go here",
+            "blog_img": "../../assets/blog/blog1.png",
+            "category": "category",
+            "readingTime": 5,
+            "time": "2164741",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in "
+        },
+        {
+            "id": 2,
+            "title": "Blog title heading will go here",
+            "blog_img": "../../assets/blog/blog2.png",
+            "category": "category",
+            "readingTime": 5,
+            "time": "321166",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in "
+        },
+        {
+            "id": 3,
+            "title": "Blog title heading will go here",
+            "blog_img": "../../assets/blog/blog1.png",
+            "category": "category",
+            "readingTime": 5,
+            "time": "962543",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in "
+        },
+        {
+            "id": 4,
+            "title": "Blog title heading will go here",
+            "blog_img": "../../assets/blog/blog3.png",
+            "category": "category",
+            "readingTime": 5,
+            "time": "79615",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in "
+        },
+        {
+            "id": 5,
+            "title": "Blog title heading will go here",
+            "blog_img": "../../assets/blog/blog2.png",
+            "category": "category",
+            "readingTime": 5,
+            "time": "66463",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in "
+        },
+        {
+            "id": 6,
+            "title": "Blog title heading will go here",
+            "blog_img": "../../assets/blog/blog3.png",
+            "category": "category",
+            "readingTime": 5,
+            "time": "325935",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in "
+        },
+        {
+            "id": 7,
+            "title": "Blog title heading will go here",
+            "blog_img": "../../assets/blog/blog2.png",
+            "category": "category",
+            "readingTime": 5,
+            "time": "6564",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in "
+        },
+        {
+            "id": 8,
+            "title": "Blog title heading will go here",
+            "blog_img": "../../assets/blog/blog1.png",
+            "category": "category",
+            "readingTime": 5,
+            "time": "12544664651112121",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in "
+        }
+    ],
+    "team": [
+        {
+            "id": 1,
+            "name": "Nikolas Gibbons",
+            "img": "../../assets/about/avatar (4).png",
+            "designation": "Engineering Manager",
+            "twitter": "https://twitter.com",
+            "linkedin": "https://linkedin.com",
+            "facebook": "https://facebook.com"
+        },
+        {
+            "id": 2,
+            "name": "Nikolas Gibbons",
+            "img": "../../assets/about/avatar (1).png",
+            "designation": "Engineering Manager",
+            "twitter": "https://twitter.com",
+            "linkedin": "https://linkedin.com",
+            "facebook": "https://facebook.com"
+        },
+        {
+            "id": 3,
+            "name": "Nikolas Gibbons",
+            "img": "../../assets/about/avatar (2).png",
+            "designation": "Engineering Manager",
+            "twitter": "https://twitter.com",
+            "linkedin": "https://linkedin.com",
+            "facebook": "https://facebook.com"
+        },
+        {
+            "id": 4,
+            "name": "Nikolas Gibbons",
+            "img": "../../assets/about/avatar (4).png",
+            "designation": "Engineering Manager",
+            "twitter": "https://twitter.com",
+            "linkedin": "https://linkedin.com",
+            "facebook": "https://facebook.com"
+        },
+        {
+            "id": 5,
+            "name": "Nikolas Gibbons",
+            "img": "../../assets/about/avatar (5).png",
+            "designation": "Engineering Manager",
+            "twitter": "https://twitter.com",
+            "linkedin": "https://linkedin.com",
+            "facebook": "https://facebook.com"
+        },
+        {
+            "id": 6,
+            "name": "Nikolas Gibbons",
+            "img": "../../assets/about/avatar (6).png",
+            "designation": "Engineering Manager",
+            "twitter": "https://twitter.com",
+            "linkedin": "https://linkedin.com",
+            "facebook": "https://facebook.com"
+        },
+        {
+            "id": 7,
+            "name": "Nikolas Gibbons",
+            "img": "../../assets/about/avatar (1).png",
+            "designation": "Engineering Manager",
+            "twitter": "https://twitter.com",
+            "linkedin": "https://linkedin.com",
+            "facebook": "https://facebook.com"
+        },
+        {
+            "id": 8,
+            "name": "Nikolas Gibbons",
+            "img": "../../assets/about/avatar (2).png",
+            "designation": "Engineering Manager",
+            "twitter": "https://twitter.com",
+            "linkedin": "https://linkedin.com",
+            "facebook": "https://facebook.com"
+        }
+    ],
+    "upCommingEvents": [
+        {
+            "id": 1,
+            "eventImg": "../../assets/images/eventsImg.png",
+            "title": "A Summit for Independent Minds and Creative Hustlers",
+            "date": "4/24/2024",
+            "description": "Ignite, Inspire, and Innovate at Our Exclusive Freelancer Symposium  Ignite, Inspire, and Innovate at Our Exclusive Freelancer Symposium"
+        },
+        {
+            "id": 2,
+            "eventImg": "../../assets/images/eventsImg.png",
+            "title": "A Summit for Independent Minds and Creative Hustlers",
+            "date": "5/24/2024",
+            "description": "Ignite, Inspire, and Innovate at Our Exclusive Freelancer Symposium  Ignite, Inspire, and Innovate at Our Exclusive Freelancer Symposium"
+        },
+        {
+            "id": 3,
+            "eventImg": "../../assets/images/eventsImg.png",
+            "title": "A Summit for Independent Minds and Creative Hustlers",
+            "date": "2/24/2024",
+            "description": "Ignite, Inspire, and Innovate at Our Exclusive Freelancer Symposium  Ignite, Inspire, and Innovate at Our Exclusive Freelancer Symposium"
+        },
+        {
+            "id": 4,
+            "eventImg": "../../assets/images/eventsImg.png",
+            "title": "A Summit for Independent Minds and Creative Hustlers",
+            "date": "6/24/2024",
+            "description": "Ignite, Inspire, and Innovate at Our Exclusive Freelancer Symposium  Ignite, Inspire, and Innovate at Our Exclusive Freelancer Symposium"
+        },
+        {
+            "id": 5,
+            "eventImg": "../../assets/images/eventsImg.png",
+            "title": "A Summit for Independent Minds and Creative Hustlers",
+            "date": "9/24/2024",
+            "description": "Ignite, Inspire, and Innovate at Our Exclusive Freelancer Symposium  Ignite, Inspire, and Innovate at Our Exclusive Freelancer Symposium"
+        },
+        {
+            "id": 6,
+            "eventImg": "../../assets/images/eventsImg.png",
+            "title": "A Summit for Independent Minds and Creative Hustlers",
+            "date": "3/24/2024",
+            "description": "Ignite, Inspire, and Innovate at Our Exclusive Freelancer Symposium  Ignite, Inspire, and Innovate at Our Exclusive Freelancer Symposium"
+        }
+    ],
+    "gallery": [
+        {
+            "id": 1,
+            "img": "../../assets/gallery/gallery (1).png"
+        },
+        {
+            "id": 2,
+            "img": "../../assets/gallery/gallery (2).png"
+        },
+        {
+            "id": 3,
+            "img": "../../assets/gallery/gallery (3).png"
+        },
+        {
+            "id": 4,
+            "img": "../../assets/gallery/gallery (4).png"
+        },
+        {
+            "id": 5,
+            "img": "../../assets/gallery/gallery (2).png"
+        },
+        {
+            "id": 6,
+            "img": "../../assets/gallery/gallery (3).png"
+        },
+        {
+            "id": 7,
+            "img": "../../assets/gallery/gallery (1).png"
+        },
+        {
+            "id": 8,
+            "img": "../../assets/gallery/gallery (4).png"
+        }
+    ]
+}

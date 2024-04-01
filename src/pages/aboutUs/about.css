@@ -1,0 +1,11 @@
+.about-banner{
+    background: url("../../assets/images/aboutBanner.png");
+    background-position: center center;
+    background-size: 100% 100% ;
+}
+
+.aboutWhowe{
+    background: url("../../assets/images/who1.png");
+    background-position: center center;
+    background-size: cover;
+}
