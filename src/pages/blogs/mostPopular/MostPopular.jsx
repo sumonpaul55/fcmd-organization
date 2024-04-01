@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/exhaustive-deps */
 import React, { useEffect, useState } from 'react'
 import SectionTitle from './../../../components/sectionTitle/SectionTitle';
 import { useQuery } from '@tanstack/react-query';
